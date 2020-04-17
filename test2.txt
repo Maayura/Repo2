@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1862-5B84
+
+ Directory of C:\Users\maayu\Desktop\MyProject
+
+04/17/2020  02:26 PM    <DIR>          .
+04/17/2020  02:26 PM    <DIR>          ..
+04/17/2020  11:58 AM                22 index.html
+04/17/2020  11:58 AM                 8 test1.txt
+04/17/2020  02:26 PM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  146,935,066,624 bytes free
